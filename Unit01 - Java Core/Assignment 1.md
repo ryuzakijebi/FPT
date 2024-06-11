@@ -9,7 +9,7 @@ Reference types, on the other hand, store memory addresses that point to complex
 
 #
 ### Example 
-```sh
+```java
 String str1 = "Hello";
 String str2 = str1;
 
