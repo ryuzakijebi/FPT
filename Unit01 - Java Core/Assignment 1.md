@@ -19,7 +19,7 @@ public class ValueTypes {
 }
 ```
 ![output](img/1.1.png)
-In this example, num1 and num2 are value types (primitive data types). When num2 is assigned the value of num1, a copy of the value is made. Therefore, modifying num2 does not affect the original value of num1.
+In this example, num1 and num2 are value types. When num2 is assigned the value of num1, a copy of the value is made. Therefore, modifying num2 does not affect the original value of num1.
 
 #
 ### Reference Types
