@@ -1,4 +1,4 @@
-public class bb {
+public class Code2 {
     public static void main(String[] args) {
         MyClass obj = new MyClass();
         obj.value = 5;
